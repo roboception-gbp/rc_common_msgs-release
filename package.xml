@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>rc_common_msgs</name>
-  <version>0.2.1</version>
+  <version>0.3.0</version>
   <description>Common msg and srv definitions used by Roboception's ROS packages</description>
 
   <maintainer email="felix.ruess@roboception.de">Felix Ruess</maintainer>
@@ -14,4 +14,6 @@
 
   <build_depend>message_generation</build_depend>
   <exec_depend>message_runtime</exec_depend>
+  <depend>std_msgs</depend>
+
 </package>

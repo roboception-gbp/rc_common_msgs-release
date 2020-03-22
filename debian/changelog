@@ -1,0 +1,40 @@
+ros-noetic-rc-common-msgs (0.4.1-1buster) buster; urgency=high
+
+  * add CAPACITY_EXCEEDED and CAPACITY_REACHED to ReturnCodeConstants
+
+ -- Felix Ruess <felix.ruess@roboception.de>  Thu, 05 Mar 2020 23:00:00 -0000
+
+ros-noetic-rc-common-msgs (0.4.0-1buster) buster; urgency=high
+
+  * Renamed CameraParams to CameraParam for consistency with internal message
+
+ -- Felix Ruess <felix.ruess@roboception.de>  Tue, 03 Dec 2019 23:00:00 -0000
+
+ros-noetic-rc-common-msgs (0.3.0-1buster) buster; urgency=high
+
+  * add CameraParam msg
+
+ -- Felix Ruess <felix.ruess@roboception.de>  Tue, 10 Sep 2019 22:00:00 -0000
+
+ros-noetic-rc-common-msgs (0.2.1-1buster) buster; urgency=high
+
+  * add KeyValue msg
+
+ -- Felix Ruess <felix.ruess@roboception.de>  Thu, 25 Apr 2019 22:00:00 -0000
+
+ros-noetic-rc-common-msgs (0.2.0-1buster) buster; urgency=high
+
+  * add INTERNAL_ERROR and IO_ERROR as constants to return codes
+  * improve constants description
+
+ -- Felix Ruess <felix.ruess@roboception.de>  Wed, 13 Mar 2019 23:00:00 -0000
+
+ros-noetic-rc-common-msgs (0.1.0-1buster) buster; urgency=high
+
+  * add ReturnCode with separate constants definitions
+  * add Trigger service using ReturnCode
+  * Initial release
+
+ -- Felix Ruess <felix.ruess@roboception.de>  Sun, 10 Mar 2019 23:00:00 -0000
+
+

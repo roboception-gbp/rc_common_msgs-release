@@ -1,3 +1,26 @@
+## rc_common_msgs (kinetic) - 0.5.3-1
+
+The packages in the `rc_common_msgs` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --ros-distro kinetic rc_common_msgs` on `Tue, 24 Nov 2020 12:53:40 -0000`
+
+The `rc_common_msgs` package was released.
+
+Version of package(s) in repository `rc_common_msgs`:
+
+- upstream repository: https://github.com/roboception/rc_common_msgs.git
+- release repository: https://github.com/roboception-gbp/rc_common_msgs-release.git
+- rosdistro version: `0.5.0-1`
+- old version: `0.5.0-1`
+- new version: `0.5.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.0`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## rc_common_msgs (noetic) - 0.5.0-1
 
 The packages in the `rc_common_msgs` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --ros-distro noetic rc_common_msgs` on `Wed, 13 May 2020 18:01:55 -0000`
